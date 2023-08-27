@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Phuc</h1>
-<h3 align="center">I come from Bien Hoa, VietNam</h3>
+<h1 align="center">Hi 👋, I'm Phuc.</h1>
+<h3 align="center">I come from Bien Hoa, VietNam.</h3>
+<p align="center"> 
+ <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/Avt.png" alt="Avt" width="Avt" height="200"/> 
+  
+> 🔭 **I’m currently working on** [Misaka.app](https://straight-tamago.github.io/misaka/Misaka/)
 
-- 🔭 I’m currently working on [Misaka Repo](https://straight-tamago.github.io/misaka/Misaka/)
+> 👨‍💻 **All of my projects are available at** [github.com/dobabaophuc1706](github.com/dobabaophuc1706)
 
-- 👨‍💻 All of my projects are available at [github.com/dobabaophuc1706](github.com/dobabaophuc1706)
+> 📄 **My Website** [dobabaophuc1706.github.io](dobabaophuc1706.github.io)
 
-- 📄 My Website [dobabaophuc1706.github.io](dobabaophuc1706.github.io)
-
-- 📲 Twitter [x.com/dobabaophuc](x.com/dobabaophuc)
+> 📲 **Twitter** [x.com/dobabaophuc](x.com/dobabaophuc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,11 +20,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/ar.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+<p align="left"> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/ai.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/pts.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/ar.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/vis.svg" alt="visualstudio" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/fig.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/py.svg" alt="python" width="40" height="40"/> </a> 
+
 </p>
