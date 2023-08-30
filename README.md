@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dobabaophuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/twi.svg" alt="dobabaophuc" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dobabaophuc1706/" target="blank"><img align="center" src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/fb.svg" alt="dobabaophuc1706" height="30" width="40" /></a>
-<a href="https://t.me/phucdo1706" target="blank"><img align="center" src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/tele.svg" alt="phucdo1706" height="30" width="40" /></a>
-<a href="https://github.com/dobabaophuc1706" target="blank"><img align="center" src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/git.svg" alt="dobabaophuc1706" height="30" width="40" /></a>
+<a href="https://twitter.com/dobabaophuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/twi.png" alt="dobabaophuc" height="55" width="55" /></a>
+<a href="https://www.facebook.com/dobabaophuc1706/" target="blank"><img align="center" src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/fb.png" alt="dobabaophuc1706" height="55" width="55" /></a>
+<a href="https://t.me/phucdo1706" target="blank"><img align="center" src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/tele.png" alt="phucdo1706" height="55" width="55" /></a>
+<a href="https://github.com/dobabaophuc1706" target="blank"><img align="center" src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/git.png" alt="dobabaophuc1706" height="55" width="55" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
