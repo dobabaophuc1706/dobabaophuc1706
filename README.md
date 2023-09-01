@@ -29,5 +29,5 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/py.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-![Phuc Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobabaophuc1706\&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&langs_count=8)
+![Phuc Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobabaophuc1706\&rank_icon=github&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&langs_count=8&theme=radical)
