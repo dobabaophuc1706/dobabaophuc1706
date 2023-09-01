@@ -3,7 +3,7 @@
 <p align="center"> 
  <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/Avt.png" alt="Avt" width="Avt" height="200"/> 
   
-> 🔭 **I’m currently working on** [Misaka.app](https://straight-tamago.github.io/misaka/Misaka/) and [KetaIOS by Kênh Táo](WWW.ketaios.app)
+> 🔭 **I’m currently working on** [Misaka.app](https://straight-tamago.github.io/misaka/Misaka/) and [KetaIOS by Kênh Táo](https://ketaios.app/)
 
 > 👨‍💻 **All of my projects are available at** [github.com/dobabaophuc1706](github.com/dobabaophuc1706)
 
