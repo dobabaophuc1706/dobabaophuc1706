@@ -31,3 +31,6 @@
 
 ![Phuc Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobabaophuc1706\&rank_icon=github&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&langs_count=8&theme=radical)
+
+<p align="center"> 
+ <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/sad.png" alt="Avt" width="Sad" height="200"/> 
