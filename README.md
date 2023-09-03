@@ -2,6 +2,8 @@
 <h3 align="center">I come from Bien Hoa, VietNam.</h3>
 <p align="center"> 
  <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/Avt.png" alt="Avt" width="Avt" height="200"/> 
+<p align="center"> 
+ <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/sad.png" alt="Avt" width="Sad" height="100"/> 
   
 > 🔭 **I’m currently working on** [Misaka.app](https://straight-tamago.github.io/misaka/Misaka/) and [KetaIOS.app by Kênh Táo](https://ketaios.app/)
 
@@ -32,5 +34,4 @@
 ![Phuc Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobabaophuc1706\&rank_icon=github&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&langs_count=8&theme=radical)
 
-<p align="center"> 
- <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/sad.png" alt="Avt" width="Sad" height="200"/> 
+
