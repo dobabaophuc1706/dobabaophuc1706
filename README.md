@@ -5,7 +5,7 @@
 <p align="center"> 
  <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/sad.png" alt="Avt" width="Sad" height="100"/> 
   
-> 🔭 **I’m currently working on** [Misaka.app](https://straight-tamago.github.io/misaka/Misaka/) and [KetaIOS.app by Kênh Táo](https://ketaios.app/)
+> 🔭 **I’m currently working on** [Misaka.app](https://straight-tamago.github.io/misaka/Misaka/)
 
 > 👨‍💻 **All of my projects are available at** [github.com/dobabaophuc1706](github.com/dobabaophuc1706)
 
