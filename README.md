@@ -9,7 +9,7 @@
 
 > 👨‍💻 **All of my projects are available at** [github.com/dobabaophuc1706](github.com/dobabaophuc1706)
 
-> 📄 **My Website** [dobabaophuc1706.github.io](dobabaophuc1706.github.io)
+> 📄 **My Website** [phucdo.pages.dev](phucdo.pages.dev)
 
 > 📲 **Twitter** [x.com/dobabaophuc](x.com/dobabaophuc)
 
