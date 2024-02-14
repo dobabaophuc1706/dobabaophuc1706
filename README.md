@@ -7,11 +7,11 @@
   
 > 🔭 **I’m currently working on** [Misaka.app](https://straight-tamago.github.io/misaka/Misaka/)
 
-> 👨‍💻 **All of my projects are available at** [github.com/dobabaophuc1706](github.com/dobabaophuc1706)
+> 👨‍💻 **All of my projects are available at** [github.com/dobabaophuc1706](https://github.com/dobabaophuc1706)
 
-> 📄 **My Website** [phucdo.pages.dev](phucdo.pages.dev)
+> 📄 **My Website** [phucdo.pages.dev](https://phucdo.pages.dev)
 
-> 📲 **Twitter** [x.com/dobabaophuc](x.com/dobabaophuc)
+> 📲 **Twitter** [x.com/dobabaophuc](https://x.com/dobabaophuc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
