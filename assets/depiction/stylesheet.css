@@ -140,12 +140,12 @@ a:active, a:hover {
 }
 
 .social {
-  width: 60px;
+  width: 30px;
   border-radius: 500px;
   margin-right: 20px;
   border-style: solid;
   border-color: rgba(255,255,255,0.15);
-  border-width: 2px;
+  border-width: 5px;
 }
 
 .packageicon {
