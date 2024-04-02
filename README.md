@@ -2,16 +2,24 @@
 <h3 align="center">I come from Bien Hoa, VietNam.</h3>
 <p align="center"> 
  <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/Avt.png" alt="Avt" width="Avt" height="200"/> 
-<p align="center"> 
- <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/sad.png" alt="Avt" width="Sad" height="100"/> 
-  
-> 🔭 **I’m currently working on** [Misaka.app](https://straight-tamago.github.io/misaka/Misaka/)
-
+ 
 > 👨‍💻 **All of my projects are available at** [github.com/dobabaophuc1706](https://github.com/dobabaophuc1706)
 
-> 📄 **My Website** [phucdo.pages.dev](https://phucdo.pages.dev)
+> 📄 **My Website** [tap here](https://phucdo.pages.dev) or [tap here](https://phucdo.xyz)
 
-> 📲 **Twitter** [x.com/dobabaophuc](https://x.com/dobabaophuc)
+> 📦 **My Jailbreak Repository** [tap here](https://dobabaophuc1706.github.io/repo)
+
+> 📦 **My Misaka Repository** [tap here](https://phucdo-repo.pages.dev/repo.json)
+
+> 🛍️ **My Shop** [tap here](https://ko-fi.com/dobabaophuc/shop)
+
+> 💭 **Telegram Channel** [join](https://t.me/phucdochannel)
+
+> 💭 **Telegram Chat Group** [join](https://t.me/phucdochat)
+
+> 📲 **Twitter** [@dobabaophuc](https://x.com/dobabaophuc)
+
+> ❤️ **Paypal** [support me](https://www.paypal.com/paypalme/dobabaophuc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
