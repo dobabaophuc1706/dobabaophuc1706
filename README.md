@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phuc.</h1>
 <h3 align="center">I come from Bien Hoa, VietNam.</h3>
 <p align="center"> 
- <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/Avt.png" alt="Avt" width="Avt" height="200"/> 
+ <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/Avt.png" alt="Avt" width="Avt" height="350"/> 
  
 > 👨‍💻 **All of my projects are available at** [github.com/dobabaophuc1706](https://github.com/dobabaophuc1706)
 
