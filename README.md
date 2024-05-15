@@ -21,6 +21,9 @@
 
 > ❤️ **Paypal** [support me](https://www.paypal.com/paypalme/dobabaophuc)
 
+<h3 align="left">Support me:</h3>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1PIBNA)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dobabaophuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/twi.png" alt="dobabaophuc" height="55" width="55" /></a>
@@ -38,8 +41,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/fig.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/py.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1PIBNA)
 
 ![Phuc Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobabaophuc1706\&rank_icon=github&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&langs_count=8&theme=radical)
