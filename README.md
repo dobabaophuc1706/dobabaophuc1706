@@ -39,7 +39,17 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/py.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=dobabaophuc1706&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dobabaophuc1706&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!--
 ![Phuc Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobabaophuc1706\&rank_icon=github&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&langs_count=8&theme=radical)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1PIBNA)
-
+-->
