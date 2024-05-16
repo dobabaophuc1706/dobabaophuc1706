@@ -2,6 +2,10 @@
 <h3 align="center">I come from Bien Hoa, VietNam.</h3>
 <p align="center"> 
  <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/Avt.png" alt="Avt" width="Avt" height="350"/> 
+
+
+<h3 align="left">About me!</h3>
+<p align="left">
  
 > 👨‍💻 **All of my projects are available at** [github.com/dobabaophuc1706](https://github.com/dobabaophuc1706)
 
@@ -20,6 +24,7 @@
 > 📲 **Twitter** [@dobabaophuc](https://x.com/dobabaophuc)
 
 > ❤️ **Paypal** [support me](https://www.paypal.com/paypalme/dobabaophuc)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,6 +51,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dobabaophuc1706&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1PIBNA)
+
 
 
 <!--
