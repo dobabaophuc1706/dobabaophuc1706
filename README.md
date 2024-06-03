@@ -4,6 +4,10 @@
  <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/Avt.png" alt="Avt" width="Avt" height="350"/> 
 
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=dobabaophuc1706&style=for-the-badge&color=blue" alt=""/>
+</div>
+
 <h3 align="left">About me!</h3>
 <p align="left">
  
@@ -44,19 +48,20 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/py.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=dobabaophuc1706&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+<p align="center"> 
+  <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&langs_count=25&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=dobabaophuc1706&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dobabaophuc1706&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=dobabaophuc1706&theme=onedark&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1PIBNA)
 
-
+<p align="center">
+ <img width="1000" src="https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg" alt="snake from @sammorozov"/>
+</p>
 
 <!--
 ![Phuc Do's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobabaophuc1706\&rank_icon=github&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&langs_count=&theme=radical)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1PIBNA)
 -->
