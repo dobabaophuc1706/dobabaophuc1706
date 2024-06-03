@@ -50,7 +50,9 @@
 
 <p align="center"> 
   <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobabaophuc1706&langs_count=25&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=dobabaophuc1706&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+<p align="center"> 
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=dobabaophuc1706&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dobabaophuc1706&theme=onedark&column=9
