@@ -1,0 +1,243 @@
+body {
+  background-color: #292C30;
+}
+
+* {
+  color: white;
+  font-family: 'Nunito', sans-serif;
+}
+
+/* Columns */
+.column {
+    float: left;
+    width: 50%;
+}
+/* Responsive layout - Single Column on Mobile */
+@media screen and (max-width: 800px) {
+    .column {
+        width: 100%;
+    }
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/*Wrapper*/
+.wrapper {
+  width: 100%;
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*Subtitles above boxes*/
+.subtitle {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 300px;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 1.0;
+}
+h2 {
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.0;
+}
+
+/*Box*/
+.bigbox {
+  background: #2F3439;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  text-align: left;
+  border-radius: 25px;
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: 300px;
+  line-height: 1.5;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.03);
+  border-width: 2px;
+}
+
+.links {
+  overflow: auto;
+  white-space: nowrap;
+  margin-bottom: 15px;
+}
+
+.screenshot {
+  width: 150px;
+  padding-right: 5px;
+  border-radius: 10px;
+}
+
+hr {
+  opacity: 0.25
+}
+
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+::-webkit-scrollbar-track {
+    background: rgba(255,255,255,0.08);
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(255,255,255,0.20);
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(255,255,255,0.25);;
+}
+
+/* Unvisited Link */
+a:link, a:visited {
+  color: #87a3ff;
+  text-decoration: none;
+}
+/* Selected Link */
+a:active, a:hover {
+  color: hotpink;
+  text-decoration: none;
+}
+
+/* Button */
+.button {
+  background: linear-gradient(to right, #55B49D , #2B7DCA);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 20px;
+  -webkit-transition: padding 0.5s ease; /*For Safari*/
+  transition: padding 0.25s ease;
+  transition: 0.25s;
+}
+/* Button Hover Effetcs */
+.button:hover {
+  filter: hue-rotate(90deg);
+  font-size: 23px;
+  padding: 8px;
+}
+
+.social {
+  width: 32px;
+  border-radius: 500px;
+  margin-right: 20px;
+  border-style: solid;
+  border-color: rgba(255,255,255,0.15);
+  border-width: 7px;
+}
+
+.phucdo {
+  width: 120px;
+  height: 120px;
+  border-radius: 500px;
+  margin-right: 20px;
+  border-style: solid;
+  border-color: rgba(255,255,255,0.15);
+  border-width: 3px;
+  text-align: center;
+}
+
+.info_table_row {
+  font-size: 17px;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+  line-height: 2;
+  color:rgba(255,255,255,0.5);
+  text-align: right;
+}
+
+.info_table_row_b {
+  font-size: 17px;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+  line-height: 2;
+}
+
+
+.warningIcon {
+  background-image: url("../../depiction/sileo.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 25px;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+.warningIcon img {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  bottom: -20px;
+  right: -20px;
+}
+
+#sileod {
+  padding-left: 160px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  width: calc(100% - 40px);
+  max-width: 800px;
+}
+#sileod h1 {
+  font-size: 21pt;
+}
+#sileod h2 {
+  font-size: 16pt;
+  font-weight: bold;
+}
+#sileod p {
+  font-size: 12.5pt;
+}
+
+.popupWrapper {
+	background-color: rgba(0,0,0,.4);
+  position: fixed;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	min-height: 100%;
+	z-index: 1000;
+}
+
+.wrapper {
+  filter: blur(15px);
+}
+
+@media screen and (max-width: 600px) {
+  .warningIcon {
+    top: 25px;
+    left: 50%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
+  #sileod {
+    padding-left: 20px;
+    padding-top: 150px;
+  }
+}

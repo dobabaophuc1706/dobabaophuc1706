@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lì xì đê</title>
+    <link rel="stylesheet" href="https://lixi.ngiu.me/style.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+    <div class="wrapper h-screen w-full m-auto">
+      <h1
+        class="text-white m-auto pt-24 text-center mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl"
+      >
+        Tết này lì xì t nhé!
+      </h1>
+      <div>
+        <img id="meme1" class="w-48 m-auto" src="https://lixi.ngiu.me/cheems-1.png" alt="" />
+        <img id="meme2" class="w-48 m-auto hide" src="https://lixi.ngiu.me/cheems.png" alt="" />
+        <img id="meme3" class="w-48 m-auto hide" src="https://lixi.ngiu.me/cheems-2.png" alt="" />
+        <img id="meme4" class="w-48 m-auto hide" src="https://lixi.ngiu.me/cheems-3.png" alt="" />
+      </div>
+      <div class="m-auto text-center mt-20">
+        <button
+          id="no"
+          type="button"
+          class="focus:outline-none text-white bg-yellow-500 hover:bg-yellow-500 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm me-2 mb-2 dark:focus:ring-yellow-900"
+        >
+          ĐÉO
+        </button>
+        <button
+          id="yes"
+          type="button"
+          class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
+        >
+          OKIE
+        </button>
+      </div>
+    </div>
+    <footer
+      id="create-new"
+      class="fixed bottom-2 z-10 right-4 text-white text-xs cursor-pointer"
+    >
+    </footer>
+  </body>
+  <script
+    src="https://code.jquery.com/jquery-3.4.1.js"
+    integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+    crossorigin="anonymous"
+  ></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const encodedParams = urlParams.get("lixi");
+    const decodedParams = atob(encodedParams);
+    const paramsArray = decodedParams.split("&");
+    const params = {};
+    paramsArray.forEach((param) => {
+      const [key, value] = param.split("=");
+      params[key] = decodeURIComponent(value);
+    });
+
+    const stk = params["stk"];
+    const bank = params["bank"];
+
+    function switchButton() {
+      $("#meme1").css("display", "none");
+      $("#meme2").css("display", "block");
+      var leftNo = $("#no").css("left");
+      var topNO = $("#no").css("top");
+      var leftY = $("#yes").css("left");
+      var topY = $("#yes").css("top");
+      $("#no").css("left", leftY);
+      $("#no").css("top", topY);
+      $("#yes").css("left", leftNo);
+      $("#yes").css("top", topNO);
+    }
+
+    function moveButton() {
+      if (screen.width <= 600) {
+        var x = Math.random() * 200;
+        var y = Math.random() * 400;
+      } else {
+        var x = Math.random() * 500;
+        var y = Math.random() * 500;
+      }
+      var left = x + "px";
+      var top = y + "px";
+      $("#no").css("left", left);
+      $("#no").css("top", top);
+    }
+
+    function swellButton(x) {
+      const innerWidth = window.innerWidth;
+      const max = innerWidth / 10;
+      let padding = x * 10 + 5;
+      if (padding > max) {
+        padding = max;
+      }
+      $("#yes").css("font-size", padding + "px");
+      $("#yes").css("padding", padding + "px");
+
+      let paddingNO = 20 - x * 3;
+      let fontNO = 20 - x * 1.5;
+
+      if (paddingNO > max) {
+        paddingNO = max;
+        fontNO = max / 1.5;
+      }
+
+      $("#no").css("font-size", fontNO + "px");
+      $("#no").css("padding", paddingNO + "px");
+    }
+
+    var n = 0;
+    $("#no").mousemove(function () {
+      if (n < 1) switchButton();
+      if (n > 1) {
+        moveButton();
+        swellButton(n);
+      }
+      n++;
+    });
+
+    $("#yes").on({
+      mouseenter: function () {
+        if (n > 1) {
+          $("#meme1").css("display", "none");
+          $("#meme2").css("display", "none");
+          $("#meme3").css("display", "block");
+        }
+      },
+      mouseleave: function () {
+        $("#meme1").css("display", "none");
+        $("#meme2").css("display", "block");
+        $("#meme3").css("display", "none");
+      },
+    });
+
+    $("#yes").click(function () {
+      Swal.fire({
+        title: "Đúng là bạn iu của tui hehe",
+        html: true,
+        width: 600,
+        padding: "3em",
+        html: `<div>Đúng là bạn tốt của t</div><div>tuỳ lòng hảo tâm (500vnđ)</div><div>${
+          stk ?? "MB BANK: 0932329328"
+        }</div>`,
+        imageUrl: "https://lixi.ngiu.me/cheems-3.png",
+        imageWidth: 200,
+        showCancelButton: false,
+        confirmButtonColor: "#3085d6",
+        cancelButtonColor: "#d33",
+        confirmButtonColor: "#fe8a71",
+        cancelButtonColor: "#f6cd61",
+        confirmButtonText: "Xinnnn",
+      });
+    });
+
+    $("#create-new").click(function () {
+      Swal.fire({
+        title: "Nhập thông tin",
+        html:
+          '<input id="stk" class="swal2-input" placeholder="STK của bạn" required>' +
+          '<input id="bankName" class="swal2-input" placeholder="Tên ngân hàng" required>',
+        focusConfirm: false,
+        confirmButtonText: "Tạo link",
+        preConfirm: () => {
+          const stk = document.getElementById("stk").value;
+          const bankName = document.getElementById("bankName").value;
+
+          // Kiểm tra nếu các ô input được điền đầy đủ
+          if (!stk || !bankName) {
+            Swal.showValidationMessage("Vui lòng nhập đầy đủ thông tin.");
+          } else {
+            // Lấy baseURL từ URL hiện tại và loại bỏ các tham số cũ
+            const currentUrl = new URL(window.location.href);
+            currentUrl.search = ""; // Xóa tất cả các tham số từ URL
+            const baseUrl = currentUrl.toString(); // Chuyển đối URL thành chuỗi
+
+            // Encode base64 cho các tham số
+            const encodedParams = btoa(`stk=${stk}&bank=${bankName}`);
+
+            // Tạo URL mới dựa trên baseURL và thêm tham số mới
+            const newUrl = `${baseUrl}?lixi=${encodedParams}`;
+            // Hiển thị URL và cho phép người dùng copy
+            Swal.fire({
+              title: "Ngon luôn",
+              text: newUrl,
+              footer: "<small class='text-yellow-700'>Copy link và gửi cho người bạn chí cốt để hốt lì xì nàoo</small>",
+              showCloseButton: true,
+              showConfirmButton: false,
+            });
+          }
+        },
+      });
+    });
+  </script>
+</html>
